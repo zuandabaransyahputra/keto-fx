@@ -1704,7 +1704,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                     ></animate>
                   </path>
 
-                  <circle cx="560" cy="396.351" r="10" fill="#e84654"></circle>
+                  <circle cx="560" cy="396.351" r="10" fill="#5ADA2D"></circle>
                   <circle
                     cx="560"
                     cy="396.351"
@@ -1739,7 +1739,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                       restart="whenNotActive"
                     ></animate>
                   </circle>
-                  <circle cx="127" cy="218" r="10" fill="black"></circle>
+                  <circle cx="127" cy="218" r="10" fill="#e84654"></circle>
                   <circle
                     cx="127"
                     cy="218"
