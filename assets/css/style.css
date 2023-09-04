@@ -1579,7 +1579,8 @@ label.error {
     width: 100%;
   }
   .header p {
-    font-size: 13px;
+    font-size: 12px;
+    padding: 0 5px;
   }
   .step_ind span {
     font-size: 14px;

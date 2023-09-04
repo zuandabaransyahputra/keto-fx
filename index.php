@@ -1780,15 +1780,15 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                   ></path>
                   <text class="big_font" x="520" y="522" fill="black"><?php echo $target_weight; ?>st</text>
 
-                  <text class="big_font_2" x="298" y="108" fill="black">
+                  <text class="big_font_2" x="270" y="75" fill="black">
                     KETO FX helps you to reach
                   </text>
-                  <text class="big_font_2" x="298" y="150" fill="black">your desired weight in <tspan><?php echo $needed_days; ?> days</tspan>.</text>
+                  <text class="big_font_2" x="270" y="115" fill="black">your desired weight in <tspan><?php echo $needed_days; ?> days</tspan>.</text>
 
-                  <circle cx="273" cy="98" r="8" fill="#e84654"></circle>
+                  <circle cx="250" cy="70" r="8" fill="#e84654"></circle>
                   <circle
-                    cx="273"
-                    cy="98"
+                    cx="250"
+                    cy="70"
                     r="10"
                     stroke="#FFD2FB"
                     stroke-opacity="0.4"
