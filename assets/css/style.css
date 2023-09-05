@@ -23,7 +23,7 @@ ul {
 p,
 .list ul,
 .list ol {
-  margin-bottom: 25px;
+  /* margin-bottom: 25px; */
 }
 p,
 .list li {
@@ -66,6 +66,7 @@ h2 {
 }
 h3 {
   font-size: 40px;
+  line-height: 30px;
 }
 h4 {
   font-size: 35px;
@@ -1445,6 +1446,7 @@ label.error {
 @media only screen and (max-width: 767px) {
   h3 {
     font-size: 25px;
+    line-height: 30px;
   }
   .weight_box .card {
     width: 160px;
@@ -1843,7 +1845,7 @@ label.error {
     font-size: 0px;
   }
   .step_contact_form {
-    padding: 20px 10px;
+    padding: 20px;
   }
 
   .product_outer .card {
