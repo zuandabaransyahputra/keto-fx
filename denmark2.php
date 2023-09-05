@@ -38,7 +38,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
 <div class="layout">
  <!-- header start -->
  <header class="header full_width">
-   <p>Oferta exclusiva: obtenga un 30% de descuento adicional en Keto FX esta semana</p>
+ <p>Eksklusivt tilbud: Få yderligere 30% rabat på Keto FX i denne uge</p>
  </header>
  <!-- header end -->
  <?php if(empty($requestdata['weight'])) { ?>
@@ -132,15 +132,15 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                  </svg>
                </li>
              </ul>
-             <p>Calificación <strong>4.6</strong> basado en <strong>1,000+</strong> clientes satisfechos</p>
+             <p>Vurdering <strong>4.6</strong> baseret på mere end <strong>1,000+</strong> glade kunder</p>
            </div>
            <div class="content_box full_width">
-           <h1>Diagnóstico individual para la pérdida de peso</h1>
+           <h1>Individuel behandling til vægttab</h1>
              <div class="big_review full_width">
                <img src="assets/images/main-banner-new.png" alt="" />
              </div>
 
-             <p>Calificación <strong>4.6</strong> basado en <strong>1,000+</strong> clientes satisfechos</p>
+             <p><strong>KETO FX</strong>-formlen er effektiv og er blevet dokumenteret af en række undersøgelser. Baseret på disse data kan vi beregne den tid, du sandsynligvis skal bruge for at nå din ønskede vægt.</p>
            </div>
            <div class="client_reviewbox full_width" style="display: none">
              <div class="image">
@@ -226,7 +226,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                <p>
                  <strong>John Smith</strong>
                  <img src="assets/images/tick.svg" alt="" />
-                 <strong>Cliente verificado</strong>
+                 <strong>Verificeret kunde</strong>
                </p>
              </div>
            </div>
@@ -318,11 +318,11 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                    </svg>
                  </li>
                </ul>
-              <p>Calificación <strong>4.6</strong> basado en <strong>1,000+</strong> clientes satisfechos</p>
+               <p>Vurdering <strong>4.6</strong> baseret på mere end <strong>1,000+</strong> glade kunder</p>
              </div>
              <div class="content_box full_width">
-             <h1>Diagnóstico individual para la pérdida de peso</h1>
-             <p>La fórmula <strong>KETO FX</strong> es exitosa y ha sido probada por estudios. Basándonos en estos datos, podemos calcular el tiempo que probablemente necesitará para alcanzar su peso deseado.</p>
+             <h1>Individuel behandling til vægttab</h1>
+             <p><strong>KETO FX</strong>-formlen er effektiv og er blevet dokumenteret af en række undersøgelser. Baseret på disse data kan vi beregne den tid, du sandsynligvis skal bruge for at nå din ønskede vægt.</p>
                <div class="big_review full_width">
                  <img src="assets/images/main-banner-new.png" alt="" />
                </div>
@@ -333,29 +333,30 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                    <img src="assets/images/icon1.svg" alt="" />
                  </div>
                  <div class="text">
-                 <p>Descubre cuánto peso es probable que pierdas con nuestra exclusiva fórmula <strong>KETO FX</strong>.</p>
-                 </div>
+                                        <p>Find ud af, hvor meget du sandsynligvis vil tabe dig med vores eksklusive <strong>KETO FX</strong>-formel.</p>
+                                    </div>
                </div>
                <div class="textbox full_width">
                  <div class="icon">
                    <img src="assets/images/icon2.svg" alt="" />
                  </div>
                  <div class="text">
-                 <p>Averigüe si <strong>KETO FX</strong> es una buena opción para usted y cuánto tiempo necesita para alcanzar sus objetivos</p>
-                 </div>
+                                        <p>Find ud af, om <strong>KETO FX</strong> passer til dig, og hvor lang tid du har brug for til at nå dine mål.</p>
+                                    </div>
                </div>
                <div class="textbox full_width">
                  <div class="icon">
                    <img src="assets/images/icon4.svg" alt="" />
                  </div>
                  <div class="text">
-                 <p><strong>KETO FX</strong> se vende actualmente sin receta y es posible sin receta</p>
-                 </div>
+                                        <p><strong>KETO FX</strong> sælges i øjeblikket i håndkøb og uden recept.</p>
+
+                                    </div>
                </div>
              </div>
            </div>
            <h3 class="content_form_header">
-           ¡Por favor, responda algunas de las preguntas a continuación!
+           Svar venligst på nogle af spørgsmålene nedenfor!
            </h3>
            <div class="step_contact_form full_width">
              <div class="step_ind">
@@ -365,7 +366,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
              </div>
              <form name="quiz" class="quiz" action="" method="post">
                <div class="form_section full_width step_1">
-                 <h6>Seleccione su género:</h6>
+               <h6>Vælg dit køn:</h6>
                  <div class="field_option dark" id="gender">
                    <div class="field check">
                      <input
@@ -408,7 +409,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                            fill="#33144E"
                          />
                        </svg>
-                       MASCULINO
+                       MAND
                      </label>
                    </div>
                    <div class="field check right">
@@ -448,11 +449,11 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                            fill="#33144E"
                          />
                        </svg>
-                       HEMBRA</label
+                       KVINDE</label
                      >
                    </div>
                  </div>
-                 <h6>Seleccione su edad:</h6>
+                 <h6>Vælg din alder:</h6>
                  <div class="field_option" id="age">
                    <div class="field check">
                      <input
@@ -497,12 +498,12 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                  </div>
                  <div class="field submit">
                    <a href="#" class="btn_one"
-                     >PRÓXIMO<span class="arrow"></span
+                     >NÆSTE<span class="arrow"></span
                    ></a>
                  </div>
                  <div class="text">
                    <p>
-                     <span> Su información está segura con nosotros</span>
+                     <span> Dine informationer er sikre hos os</span>
                      <img src="assets/images/logos.png" alt="" />
                    </p>
                  </div>
@@ -510,7 +511,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
 
                <div class="form_section full_width step_2">
                  <div class="full_width_mobile halfonmob one">
-                 <h6 class="">Ingrese su peso:</h6>
+                   <h6 class="">Indtast din vægt:</h6>
                    <div class="field_option one" id="calc_weight">
                      <div class="field">
                        <div class="over_lap">ST</div>
@@ -527,7 +528,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                    </div>
                  </div>
                  <div class="full_width_mobile halfonmob two">
-                   <h6 class="mobile_hide">Introduzca el peso objetivo:</h6>
+                   <h6 class="mobile_hide">Indtast din målvægt:</h6>
                    <div class="field_option one" id="calc_target">
                      <div class="field">
                        <div class="over_lap">ST</div>
@@ -545,7 +546,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                  </div>
                  <!-- <p class="bottoms" style="width: 100%;text-align: center;font-size: 14px;">(note: 1 stone = approx 6st)</p> -->
 
-                 <h6 class="bottoms">Introduce tu altura:</h6>
+                 <h6 class="bottoms">Indtast din højde:</h6>
 
                  <div class="field_option bottoms one">
                    <div class="field" id="calc_height">
@@ -565,19 +566,19 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
 
                  <div class="field submit">
                    <button class="btn_one">
-                   PRÓXIMO<span class="arrow"></span>
+                     NÆSTE<span class="arrow"></span>
                    </button>
                  </div>
                  <div class="text">
                    <p>
-                     <span> Su información está segura con nosotros</span>
+                     <span> Dine informationer er sikre hos os</span>
                      <img src="assets/images/logos.png" alt="" />
                    </p>
                  </div>
                </div>
 
                <div class="form_section full_width step_3">
-                 <h6>¿Qué tan motivado estás para perder peso?</h6>
+                 <h6>Hvor motiveret er du til at tabe dig?</h6>
                  <div class="field_option three">
                    <div class="field check">
                      <input
@@ -586,7 +587,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                        name="motivated_weight"
                        value="few"
                      />
-                     <label for="radio11">La verdad es que no</label>
+                     <label for="radio11">Ikke rigtig</label>
                    </div>
                    <div class="field check right">
                      <input
@@ -595,7 +596,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                        name="motivated_weight"
                        value="average"
                      />
-                     <label for="radio12">Un poco</label>
+                     <label for="radio12">Lidt</label>
                    </div>
                    <div class="field check right">
                      <input
@@ -604,10 +605,10 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                        name="motivated_weight"
                        value="very"
                      />
-                     <label for="radio13">Mucho</label>
+                     <label for="radio13">Meget</label>
                    </div>
                  </div>
-                 <h6>¿Haces ejercicio actualmente?</h6>
+                 <h6>Dyrker du motion for tiden?</h6>
                  <div class="field_option three">
                    <div class="field check">
                      <input
@@ -616,7 +617,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                        name="exercise"
                        value="few"
                      />
-                     <label for="radio14">La verdad es que no</label>
+                     <label for="radio14">Ikke rigtig</label>
                    </div>
                    <div class="field check right">
                      <input
@@ -625,7 +626,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                        name="exercise"
                        value="average"
                      />
-                     <label for="radio15">Un poco</label>
+                     <label for="radio15">Lidt</label>
                    </div>
                    <div class="field check right">
                      <input
@@ -634,18 +635,18 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                        name="exercise"
                        value="very"
                      />
-                     <label for="radio16">Mucho</label>
+                     <label for="radio16">Meget</label>
                    </div>
                  </div>
 
                  <div class="field submit">
                    <button class="btn_one">
-                   HACER UN PRONÓSTICO <span class="arrow"></span>
+                   FORETAG EN PROGNOSE <span class="arrow"></span>
                    </button>
                  </div>
                  <div class="text">
                    <p>
-                     <span> Su información está segura con nosotros</span>
+                     <span> Dine informationer er sikre hos os</span>
                      <img src="assets/images/logos.png" alt="" />
                    </p>
                  </div>
@@ -662,7 +663,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
    <div class="customers_says full_width pbt_82 showonmobileonly">
      <div class="wrapper">
        <div class="title full_width center">
-         <h2 class="title_mobile">Su recomendación personal de productos</h2>
+         <h2 class="title_mobile">Din personlige produktanbefaling</h2>
          <div class="rating_box full_width">
            <ul class="star">
              <li>
@@ -743,7 +744,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                </svg>
              </li>
            </ul>
-           <p>Calificación <strong>4.6</strong> basado en <strong>1,000+</strong> clientes satisfechos</p>
+           <p>Vurdering <strong>4.6</strong> baseret på mere end <strong>1,000+</strong> glade kunder</p>
          </div>
        </div>
        <div class="customers_part full_width image_three_slider">
@@ -751,17 +752,17 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
            <div class="image">
              <img src="assets/images/customer-1.jpg" alt="" />
              <div class="after_before">
-               <span>Antes</span>
+               <span>Før</span>
              </div>
              <div class="after_before right">
-               <span>Después</span>
+               <span>Efter</span>
              </div>
            </div>
            <div class="name_testimonial_card">
              <p class="name">John Smith</p>
              <div class="verified">
                <img src="assets/images/tick-pink.svg" alt="" />
-               <p class="verified_text">Cliente verificado</p>
+               <p class="verified_text">Verificeret kunde</p>
              </div>
            </div>
            <div class="rating_box">
@@ -840,24 +841,26 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
            </div>
            <div class="text">
              <h5>John</h5>
-             <p>A menudo se dice que los hombres no son vanidosos, pero eso no es cierto. He estado avergonzado de mi exceso de peso durante años. Por recomendación de un buen amigo, compré Keto FX y comencé a tomarlo de inmediato. Qué puedo decir, estoy feliz, porque desde el 'demasiado gordo' John, me he convertido en una persona contenta con una buena figura.</p>
+             <p>
+               Det er en udbredt opfattelse, at mænd ikke er forfængelige, men det er ikke sandt. Jeg har skammet mig over min overvægt i mange år. Jeg fik anbefalet Keto FX af en god ven og begyndte at tage det med det samme. Jeg er glad, for at jeg er gået fra at være den "for fede" John, til en glad person med en god figur.
+             </p>
            </div>
          </div>
          <div class="customer_card">
            <div class="image">
              <img src="assets/images/customer-2.jpg" alt="" />
              <div class="after_before">
-               <span>Antes</span>
+               <span>Før</span>
              </div>
              <div class="after_before right">
-               <span>Después</span>
+               <span>Efter</span>
              </div>
            </div>
            <div class="name_testimonial_card">
              <p class="name">Sophie</p>
              <div class="verified">
                <img src="assets/images/tick-pink.svg" alt="" />
-               <p class="verified_text">Cliente verificado</p>
+               <p class="verified_text">Verificeret kunde</p>
              </div>
            </div>
            <div class="rating_box">
@@ -935,25 +938,27 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
              </ul>
            </div>
            <div class="text">
-             <h5>Amazing product</h5>
-            <p>Simplemente estoy encantado con este producto. Al principio, era realmente escéptico, pero después de 4 meses de uso, apenas puedo creer lo que veo. Me he convertido en una persona nueva y más delgada. Mis conocidos están realmente conmocionados por este éxito. Puedo recomendarlo a todos los que tengan la conciencia tranquila.</p>
+             <h5>Fantastisk produkt</h5>
+             <p>
+              Jeg er simpelthen så imponeret over dette produkt. I starten var jeg virkelig skeptisk, men efter 4 måneders brug kan jeg næsten ikke tro mine egne øjne. Jeg er blevet en ny, slankere person. Mine bekendte er virkelig chokerede over denne succes. Jeg kan uden tvivl anbefale det til alle.
+             </p>
            </div>
          </div>
          <div class="customer_card">
            <div class="image">
              <img src="assets/images/customer-3.jpg" alt="" />
              <div class="after_before">
-               <span>Antes</span>
+               <span>Før</span>
              </div>
              <div class="after_before right">
-               <span>Después</span>
+               <span>Efter</span>
              </div>
            </div>
            <div class="name_testimonial_card">
              <p class="name">Anna</p>
              <div class="verified">
                <img src="assets/images/tick-pink.svg" alt="" />
-               <p class="verified_text">Cliente verificado</p>
+               <p class="verified_text">Verificeret kunde</p>
              </div>
            </div>
            <div class="rating_box">
@@ -1031,8 +1036,10 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
              </ul>
            </div>
            <div class="text">
-             <h5>Amazing product</h5>
-             <p>Aprendí sobre Keto FX Gummies en línea y solo tenía que probarlo. Durante años, he querido perder peso, pero hasta ahora, todo se ha sentido demasiado engorroso. El efecto rápido realmente me sorprendió, después de solo 14 días, me veía significativamente más delgada y me sentía bien. Ahora, después de 3 meses, he podido alcanzar mi cifra deseada sin tener que morir de hambre. Estoy feliz.</p>
+             <h5>Fantastisk produkt</h5>
+             <p>
+               Jeg hørte om Keto FX Gummies på nettet og var bare nødt til at prøve det. I årevis har jeg ønsket at tabe mig, men indtil videre har alt føltes for besværligt. Den hurtige effekt overraskede mig virkelig, efter bare 14 dage så jeg betydeligt slankere ud og følte mig godt tilpas. Nu, efter 3 måneder, har jeg været i stand til at opnå min ønskede figur uden at skulle faste og være sulten. Jeg er meget tilfreds.
+             </p>
            </div>
          </div>
 
@@ -1040,17 +1047,17 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
            <div class="image">
              <img src="assets/images/customer-4.jpg" alt="" />
              <div class="after_before">
-               <span>Antes</span>
+               <span>Før</span>
              </div>
              <div class="after_before right">
-               <span>Después</span>
+               <span>Efter</span>
              </div>
            </div>
            <div class="name_testimonial_card">
              <p class="name">Laura</p>
              <div class="verified">
                <img src="assets/images/tick-pink.svg" alt="" />
-               <p class="verified_text">Cliente verificado</p>
+               <p class="verified_text">Verificeret kunde</p>
              </div>
            </div>
            <div class="rating_box">
@@ -1128,25 +1135,27 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
              </ul>
            </div>
            <div class="text">
-             <h5>Amazing product</h5>
-            <p>¡He logrado perder más de 20 st!! Keto FX me ha convertido en una nueva persona, tengo mucha más confianza en mí mismo y comprar es divertido nuevamente, por supuesto, con tres tamaños más pequeños. En serio, pruébalo por ti mismo, porque deseo esta fantástica experiencia para cualquiera que esté luchando contra el sobrepeso.</p>
+             <h5>Fantastisk produkt</h5>
+             <p>
+               Jeg har formået at tabe over 20 kg!!! Keto FX har gjort mig til et nyt menneske, jeg har meget mere selvtillid, og det er sjovt at shoppe igen, selvfølgelig med tre størrelser mindre. Prøv det, for jeg ønsker at alle, der kæmper med overvægt skal få denne fantastiske oplevelse.
+             </p>
            </div>
          </div>
          <div class="customer_card">
            <div class="image">
              <img src="assets/images/customer-5.jpg" alt="" />
              <div class="after_before">
-               <span>Antes</span>
+               <span>Før</span>
              </div>
              <div class="after_before right">
-               <span>Después</span>
+               <span>Efter</span>
              </div>
            </div>
            <div class="name_testimonial_card">
              <p class="name">Maximilian</p>
              <div class="verified">
                <img src="assets/images/tick-pink.svg" alt="" />
-               <p class="verified_text">Cliente verificado</p>
+               <p class="verified_text">Verificeret kunde</p>
              </div>
            </div>
            <div class="rating_box">
@@ -1224,25 +1233,27 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
              </ul>
            </div>
            <div class="text">
-             <h5>Amazing product</h5>
-             <p>Odio los gimnasios y no soy fanático de trotar sin fin ni nada de eso. En la televisión, vi el anuncio de este producto dietético y pensé, dije y listo, lo pedí y comencé a tomarlo justo después de la entrega. No hay sensación de hambre y suficiente energía para mi trabajo, a pesar de la dieta, realmente genial, y la mejor parte es que he perdido más de 15 st y me siento súper. Me quedaré con eso.</p>
+             <h5>Fantastisk produkt</h5>
+             <p>
+              Jeg hader fitnesscentre, og jeg er ikke fan af endeløs jogging eller noget i den stil. På tv så jeg en reklame for dette slankeprodukt og jeg bestilte et, hvorefter jeg begyndte at tage det lige efter leveringen. Ingen sultfornemmelser og nok energi til mit arbejde, på trods af kosten, virkelig fantastisk, og det bedste er, at jeg har tabt over 15 kilo og føler mig super tilpas. Jeg vil fortsætte med det.
+             </p>
            </div>
          </div>
          <div class="customer_card">
            <div class="image">
              <img src="assets/images/customer-6.jpg" alt="" />
              <div class="after_before">
-               <span>Antes</span>
+               <span>Før</span>
              </div>
              <div class="after_before right">
-               <span>Después</span>
+               <span>Efter</span>
              </div>
            </div>
            <div class="name_testimonial_card">
              <p class="name">Max</p>
              <div class="verified">
                <img src="assets/images/tick-pink.svg" alt="" />
-               <p class="verified_text">Cliente verificado</p>
+               <p class="verified_text">Verificeret kunde</p>
              </div>
            </div>
            <div class="rating_box">
@@ -1320,8 +1331,10 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
              </ul>
            </div>
            <div class="text">
-             <h5>Amazing product</h5>
-            <p>Muchas gracias al equipo de Keto FX. No solo he logrado finalmente la figura de mis sueños, sino que también estoy entusiasmado con el fantástico servicio. El próximo verano puede llegar, y finalmente, puedo ir a nadar sin sentir la necesidad de avergonzarme de mi barriga. Gracias, gracias, eres increíble.</p>
+             <h5>Fantastisk produkt</h5>
+             <p>
+               En stor tak til Keto FX-teamet. Ikke alene har jeg endelig opnået min drømmefigur, men jeg er også meget glad for den fantastiske service. Den næste sommer kan bare komme an. Jeg kan endelig svømme uden at føle, at jeg skal skamme mig over min mave. Tak, I er fantastiske.
+             </p>
            </div>
          </div>
        </div>
@@ -1343,13 +1356,13 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
              <div class="image">
                <img src="assets/images/img1.jpg" alt="" />
                <div class="overlap_text">
-                 <h4>Antes</h4>
+                 <h4>Før</h4>
                </div>
              </div>
              <div class="image">
                <img src="assets/images/img2.jpg" alt="" />
                <div class="overlap_text">
-                 <h4>Después</h4>
+                 <h4>Efter</h4>
                </div>
              </div>
            </div>
@@ -1357,13 +1370,13 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
              <div class="image">
                <img src="assets/images/img3.jpg" alt="" />
                <div class="overlap_text">
-                 <h4>Antes</h4>
+                 <h4>Før</h4>
                </div>
              </div>
              <div class="image">
                <img src="assets/images/img4.jpg" alt="" />
                <div class="overlap_text">
-                 <h4>Después</h4>
+                 <h4>Efter</h4>
                </div>
              </div>
            </div>
@@ -1371,13 +1384,13 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
              <div class="image">
                <img src="assets/images/img5.jpg" alt="" />
                <div class="overlap_text">
-                 <h4>Antes</h4>
+                 <h4>Før</h4>
                </div>
              </div>
              <div class="image">
                <img src="assets/images/img6.jpg" alt="" />
                <div class="overlap_text">
-                 <h4>Después</h4>
+                 <h4>Efter</h4>
                </div>
              </div>
            </div>
@@ -1397,15 +1410,17 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                <img src="assets/images/icon1.svg" alt="" />
              </div>
              <div class="text">
-             <p>Descubre cuánto peso es probable que pierdas con nuestra exclusiva fórmula <strong>KETO FX</strong>.</p>
-             </div>
+                                    <p>Find ud af, hvor meget du sandsynligvis vil tabe dig med vores eksklusive <strong>KETO FX</strong>-formel.</p>
+                                </div>
            </div>
            <div class="textbox full_width">
              <div class="icon">
                <img src="assets/images/icon2.svg" alt="" />
              </div>
              <div class="text">
-             <p>Averigüe si <strong>KETO FX</strong> es una buena opción para usted y cuánto tiempo necesita para alcanzar sus objetivos</p>
+                                <p>Find ud af, om <strong>KETO FX</strong> passer til dig, og hvor lang tid du har brug for til at nå dine mål.</p>
+
+                                </div>
              </div>
            </div>
            <div class="textbox full_width">
@@ -1413,8 +1428,8 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                <img src="assets/images/icon4.svg" alt="" />
              </div>
              <div class="text">
-             <p><strong>KETO FX</strong> se vende actualmente sin receta y es posible sin receta</p>
-             </div>
+                                    <p><strong>KETO FX</strong> sælges i øjeblikket i håndkøb og uden recept.</p>
+                                </div>
            </div>
          </div>
        </div>
@@ -1516,11 +1531,11 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                </svg>
              </li>
            </ul>
-           <p>Calificación <strong>4.6</strong> basado en <strong>1,000+</strong> clientes satisfechos</p>
+           <p>Vurdering <strong>4.6</strong> baseret på mere end <strong>1,000+</strong> glade kunder</p>
          </div>
          <div class="text_box full_width">
-                <h3>Al tomar <strong>KETO FX</strong> se espera que alcance su peso objetivo de <?php echo $target_weight; ?>kilos en los próximos <strong><?php echo $needed_days; ?>
-                días</strong>, entre el <?php echo $start_date; ?> y el <?php echo $target_date; ?>.</h3>
+                <h3>Ved at tage <strong>KETO FX</strong> forventes du at nå din målvægt på <?php echo $target_weight; ?>kilo i løbet af de næste <strong><?php echo $needed_days; ?>
+                dage</strong>, mellem <?php echo $start_date; ?> og <?php echo $target_date; ?>.</h3>
             </div>
          <div class="weight_box full_width">
            <div class="card">
@@ -1529,7 +1544,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                  <img src="assets/images/weight 1.svg" alt="" />
                </div>
                <div class="text">
-                 <h6>PESO ACTUAL</h6>
+                 <h6>NUVÆRENDE VÆGT</h6>
                  <h2><?php echo $cureent_weight; ?>st</h2>
                </div>
              </div>
@@ -1540,7 +1555,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                  <img src="assets/images/weight-2.svg" alt="" />
                </div>
                <div class="text">
-                 <h6>PESO OBJETIVO</h6>
+                 <h6>MÅLVÆGT</h6>
                  <h2><?php echo $target_weight; ?>st</h2>
                </div>
              </div>
@@ -1551,7 +1566,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                  <img src="assets/images/weight-3.svg" alt="" />
                </div>
                <div class="text">
-                 <h6>Diferencia</h6>
+                 <h6>Forskel</h6>
                  <h2><?php echo $different_weight; ?>st</h2>
                </div>
              </div>
@@ -1570,7 +1585,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
    <div class="why_choose full_width">
      <div class="wrapper">
        <div class="title full_width">
-         <h2>¿Por qué elegir KETO FX?</h2>
+       <h2>Hvorfor vælge KETO FX?</h2>
        </div>
        <div class="outer_part full_width">
          <div class="left_part">
@@ -1699,9 +1714,9 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                   <text class="big_font" x="520" y="522" fill="black"><?php echo $target_weight; ?>st</text>
 
                   <text class="big_font_2" x="270" y="75" fill="black">
-                  KETO FX te ayuda a alcanzar
+                  KETO FX hjælper dig med at opnå
                   </text>
-                  <text class="big_font_2" x="270" y="115" fill="black">Su peso deseado en <tspan><?php echo $needed_days; ?> días</tspan>.</text>
+                  <text class="big_font_2" x="270" y="115" fill="black">din ønskede vægt på  <tspan><?php echo $needed_days; ?> dage</tspan>.</text>
 
                   <circle cx="250" cy="70" r="8" fill="#e84654"></circle>
                   <circle
@@ -1804,7 +1819,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                 </svg>
          </div>
          <div class="right_part">
-         <h6>KETO FX ayuda especialmente con las siguientes áreas problemáticas</h6>
+         <h6>KETO FX hjælper især med følgende problemområder</h6>
 
            <div class="man_body">
              <svg
@@ -1835,7 +1850,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                    text-transform: capitalize;
                  "
                >
-               Cuello / Barbilla
+               Hals/Hage
                </text>
                <text
                  class="big_font_20"
@@ -1848,8 +1863,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                    text-transform: capitalize;
                  "
                >
-               Área del pecho
-               </text>
+               Brystområde               </text>
                <text
                  class="big_font_20"
                  x="368"
@@ -1861,7 +1875,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                    text-transform: capitalize;
                  "
                >
-               Cadera
+               Hofte
                </text>
                <text
                  class="big_font_20"
@@ -1874,7 +1888,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                    text-transform: capitalize;
                  "
                >
-               Estómago
+               Mave
                </text>
 
                <path
@@ -1893,7 +1907,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                    text-transform: capitalize;
                  "
                >
-               Muslo
+               Lår
                </text>
 
                <path
@@ -2062,8 +2076,10 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
    <div class="product_section full_width pbt_82">
      <div class="wrapper">
        <div class="title full_width">
-         <h2 class="title_mobile">Su recomendación personal de productos</h2>
-         <p>Multiplique sus ahorros y su éxito en la pérdida de peso: ordene varias botellas Keto FX ahora</p>
+         <h2 class="title_mobile">Din personlige produktanbefaling</h2>
+         <p>
+          Forøg dine besparelser og din vægttabssucces: Bestil flere flasker Keto FX nu
+         </p>
        </div>
        <div class="product_outer full_width">
          <div class="chakra-container foracst-container css-4s062h">
@@ -2101,7 +2117,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                                <h2
                                  class="elementor-heading-title elementor-size-default"
                                >
-                               Para novatos
+                               For nybegyndere
                                </h2>
                              </div>
                            </div>
@@ -2136,8 +2152,8 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                                <p
                                  class="elementor-heading-title elementor-size-default"
                                >
-                                 <strong>Última venta</strong>
-                                 <br />Hace 10 minutos.
+                                 <strong>Sidst solgt</strong>
+                                 <br />10 minutter siden.
                                </p>
                              </div>
                            </div>
@@ -2153,7 +2169,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                                    <h2
                                      class="elementor-heading-title elementor-size-default"
                                    >
-                                     1 botella
+                                     1 flaske
                                    </h2>
                                  </div>
                                </div>
@@ -2167,7 +2183,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                                    <p
                                      class="elementor-heading-title elementor-size-default"
                                    >
-                                   Después de solo un mes de uso, comenzará a ver la pérdida de pequeños depósitos de grasa.
+                                   Efter blot en måneds brug vil du begynde at se reduktionen af mindre fedtdepoter.
                                    </p>
                                  </div>
                                </div>
@@ -2191,7 +2207,9 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                                        <span
                                          class="elementor-icon-list-text"
                                        >
-                                       <strong>¡Obtenga un pequeño suministro, sin suscripción ni tarifas ocultas! Recibirás solo un paquete.</strong>
+                                         <strong
+                                           >Få en lille forsyning, intet abonnement eller skjulte gebyrer! Du modtager kun én pakke.</strong
+                                         >
                                        </span>
                                      </li>
                                      <li class="elementor-icon-list-item">
@@ -2205,7 +2223,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                                        </span>
                                        <span
                                          class="elementor-icon-list-text"
-                                         >Envío gratuito</span
+                                         >Gratis levering</span
                                        >
                                      </li>
                                    </ul>
@@ -2286,7 +2304,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                                        >
                                          <span
                                            class="elementor-button-text"
-                                           >ESCOGER</span
+                                           >VÆLG</span
                                          >
                                        </span>
                                      </a>
@@ -2312,7 +2330,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                                        </span>
                                        <span
                                          class="elementor-icon-list-text"
-                                         >Métodos de pago seguros como Klarna, PayPal y tarjetas de crédito</span
+                                         >Sikre betalingsmetoder som Klarna, Paypal og kreditkort</span
                                        >
                                      </li>
                                    </ul>
@@ -2343,7 +2361,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                                <h2
                                  class="elementor-heading-title elementor-size-default"
                                >
-                               ¡Bestseller!
+                                 Bestseller!
                                </h2>
                              </div>
                            </div>
@@ -2378,8 +2396,8 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                                <p
                                  class="elementor-heading-title elementor-size-default"
                                >
-                                 <strong>Última venta</strong>
-                                 <br />Hace 8 minutos.
+                                 <strong>Sidst solgt</strong>
+                                 <br />8 minutter siden.
                                </p>
                              </div>
                            </div>
@@ -2395,7 +2413,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                                    <h2
                                      class="elementor-heading-title elementor-size-default"
                                    >
-                                     3 botellas
+                                     3 flasker
                                    </h2>
                                  </div>
                                </div>
@@ -2409,7 +2427,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                                    <p
                                      class="elementor-heading-title elementor-size-default"
                                    >
-                                   Este paquete también se conoce como "el nuevo paquete de vestuario" por muchos, ya que muchos clientes ya no caben en su ropa vieja después de tomarla y finalmente pueden usar tallas más pequeñas.
+                                   Denne pakke kaldes også "den nye garderobepakke" af mange, da mange kunder ikke længere kan passe deres gamle tøj efter at have brugt den og endelig kan gå i mindre størrelser.
                                    </p>
                                  </div>
                                </div>
@@ -2423,9 +2441,9 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                                    <p
                                      class="elementor-heading-title elementor-size-default"
                                    >
-                                   Recibes 3 paquetes a la vez<br />
+                                   Du modtager 3 pakker på én gang<br />
                                      <strong
-                                       >(¡Sin suscripción ni tarifas ocultas!)</strong
+                                       >(intet abonnement eller skjulte gebyrer!)</strong
                                      >
                                    </p>
                                  </div>
@@ -2449,7 +2467,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                                        </span>
                                        <span
                                          class="elementor-icon-list-text"
-                                         >AHORRE £106</span
+                                         >SPAR £106</span
                                        >
                                      </li>
                                    </ul>
@@ -2474,7 +2492,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                                        </span>
                                        <span
                                          class="elementor-icon-list-text"
-                                         >Envío gratuito</span
+                                         >Gratis levering</span
                                        >
                                      </li>
                                    </ul>
@@ -2548,7 +2566,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                                                      margin-bottom: 0px;
                                                    "
                                                  >
-                                                   Precio por botella
+                                                  Pris pr. flaske
                                                  </p>
                                                </div>
                                              </div>
@@ -2594,7 +2612,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                                        >
                                          <span
                                            class="elementor-button-text"
-                                           >ESCOGER</span
+                                           >VÆLG</span
                                          >
                                        </span>
                                      </a>
@@ -2620,7 +2638,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                                        </span>
                                        <span
                                          class="elementor-icon-list-text"
-                                         >Métodos de pago seguros como Klarna, PayPal y tarjetas de crédito</span
+                                         >Sikre betalingsmetoder som Klarna, Paypal og kreditkort</span
                                        >
                                      </li>
                                    </ul>
@@ -2650,7 +2668,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                                <h2
                                  class="elementor-heading-title elementor-size-default"
                                >
-                               ¡La mejor relación calidad-precio!
+                               Bedste værdi!
                                </h2>
                              </div>
                            </div>
@@ -2685,8 +2703,8 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                                <p
                                  class="elementor-heading-title elementor-size-default"
                                >
-                                 <strong>Última venta</strong>
-                                 <br />Hace 4 minutos.
+                                 <strong>Sidst solgt</strong>
+                                 <br />4 minutter siden.
                                </p>
                              </div>
                            </div>
@@ -2702,7 +2720,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                                    <h2
                                      class="elementor-heading-title elementor-size-default"
                                    >
-                                     5 botellas
+                                     5 flasker
                                    </h2>
                                  </div>
                                </div>
@@ -2716,7 +2734,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                                    <p
                                      class="elementor-heading-title elementor-size-default"
                                    >
-                                   Este paquete está destinado solo para usuarios que realmente quieren cambiar sus vidas. También es una gran opción para aquellos que quieren compartir con el cónyuge o la familia.
+                                   Denne pakke er kun beregnet til brugere, der virkelig ønsker at ændre deres liv. Pakken er også en god mulighed for dem, der ønsker at dele den med deres ægtefælle eller familie.
                                    </p>
                                  </div>
                                </div>
@@ -2730,9 +2748,9 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                                    <p
                                      class="elementor-heading-title elementor-size-default"
                                    >
-                                   Recibes 5 paquetes a la vez <br />
+                                   Du modtager 5 pakker på én gang <br />
                                      <strong
-                                       >(¡Sin suscripción ni tarifas ocultas!)</strong
+                                       >(intet abonnement eller skjulte gebyrer!)</strong
                                      >
                                    </p>
                                  </div>
@@ -2756,7 +2774,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                                        </span>
                                        <span
                                          class="elementor-icon-list-text"
-                                         >AHORRE £390</span
+                                         >SPAR £390</span
                                        >
                                      </li>
                                      <li class="elementor-icon-list-item">
@@ -2770,7 +2788,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                                        </span>
                                        <span
                                          class="elementor-icon-list-text"
-                                         >Envío gratuito</span
+                                         >Gratis levering</span
                                        >
                                      </li>
                                    </ul>
@@ -2844,7 +2862,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                                                      margin-bottom: 0px;
                                                    "
                                                  >
-                                                   Precio por botella
+                                                  Pris pr. flaske
                                                  </p>
                                                </div>
                                              </div>
@@ -2890,7 +2908,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                                        >
                                          <span
                                            class="elementor-button-text"
-                                           >ESCOGER</span
+                                           >VÆLG</span
                                          >
                                        </span>
                                      </a>
@@ -2916,7 +2934,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                                        </span>
                                        <span
                                          class="elementor-icon-list-text"
-                                         >Métodos de pago seguros como Klarna, PayPal y tarjetas de crédito</span
+                                         >Sikre betalingsmetoder som Klarna, Paypal og kreditkort</span
                                        >
                                      </li>
                                    </ul>
@@ -2943,8 +2961,10 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
    <div class="benefits full_width pbt_82 white" style="display: none">
      <div class="wrapper">
        <div class="title full_width center">
-         <h2 class="title_mobile">Su recomendación personal de productos</h2>
-         <p>Multiplique sus ahorros y su éxito en la pérdida de peso: ordene varias botellas Keto FX ahora</p>
+         <h2 class="title_mobile">Din personlige produktanbefaling</h2>
+         <p>
+          Forøg dine besparelser og din vægttabssucces: Bestil flere flasker Keto FX nu
+         </p>
        </div>
        <div class="benefits_outer full_width">
          <div class="benefit_card">
@@ -2952,9 +2972,9 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
              <img src="assets/images/icon-1_1.svg" alt="" />
            </div>
            <div class="text">
-             <h5>Rápido y sencillo</h5>
-             <p>Neque sociis semper sit risus dignissim viverra. Porttitor aliquam pellentesque scelerisque pharetra duis. Ridiculus vitae id gravida libero venenatis.</p>
-           </div>
+                <h5>Hurtigt og enkelt</h5>
+                <p>Neque sociis semper sit risus dignissim viverra. Porttitor aliquam pellentesque scelerisque pharetra duis. Ridiculus vitae id gravida libero venenatis.</p>
+            </div>
          </div>
 
          <div class="benefit_card">
@@ -2962,7 +2982,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
              <img src="assets/images/icon-2_1.svg" alt="" />
            </div>
            <div class="text">
-                <h5>Pronóstico individual</h5>
+                <h5>Individuel prognose</h5>
                 <p>Neque sociis semper sit risus dignissim viverra. Porttitor aliquam pellentesque scelerisque pharetra duis. Ridiculus vitae id gravida libero venenatis.</p>
             </div>
          </div>
@@ -2972,7 +2992,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
              <img src="assets/images/icon-3_1.svg" alt="" />
            </div>
            <div class="text">
-                <h5>Bajar de peso de manera efectiva</h5>
+                <h5>Tabe sig effektivt</h5>
                 <p>Neque sociis semper sit risus dignissim viverra. Porttitor aliquam pellentesque scelerisque pharetra duis. Ridiculus vitae id gravida libero venenatis.</p>
             </div>
          </div>
@@ -2984,9 +3004,9 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
    <!-- customers are saying start -->
    <div class="customers_says full_width pbt_82">
      <div class="wrapper">
-       <h2 class="testimonial_header">TESTIMONIOS</h2>
+       <h2 class="testimonial_header">Udtalelser</h2>
        <div class="title full_width center">
-         <h2 class="title_mobile">Su recomendación personal de productos</h2>
+         <h2 class="title_mobile">Din personlige produktanbefaling</h2>
          <div class="rating_box full_width">
            <ul class="star">
              <li>
@@ -3067,7 +3087,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                </svg>
              </li>
            </ul>
-           <p>Calificación <strong>4.6</strong> basado en <strong>1,000+</strong> clientes satisfechos</p>
+           <p>Vurdering <strong>4.6</strong> baseret på mere end <strong>1,000+</strong> glade kunder</p>
          </div>
        </div>
        <div class="customers_part full_width image_three_slider">
@@ -3075,17 +3095,17 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
            <div class="image">
              <img src="assets/images/customer-1.jpg" alt="" />
              <div class="after_before">
-               <span>Antes</span>
+               <span>Før</span>
              </div>
              <div class="after_before right">
-               <span>Después</span>
+               <span>Efter</span>
              </div>
            </div>
            <div class="name_testimonial_card">
              <p class="name">John</p>
              <div class="verified">
                <img src="assets/images/tick-pink.svg" alt="" />
-               <p class="verified_text">Cliente verificado</p>
+               <p class="verified_text">Verificeret kunde</p>
              </div>
            </div>
 
@@ -3164,25 +3184,27 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
              </ul>
            </div>
            <div class="text">
-             <h5>Amazing product</h5>
-             <p>A menudo se dice que los hombres no son vanidosos, pero eso no es cierto. He estado avergonzado de mi exceso de peso durante años. Por recomendación de un buen amigo, compré Keto FX y comencé a tomarlo de inmediato. Qué puedo decir, estoy feliz, porque desde el 'demasiado gordo' John, me he convertido en una persona contenta con una buena figura.</p>
+             <h5>Fantastisk produkt</h5>
+             <p>
+               Det er en udbredt opfattelse, at mænd ikke er forfængelige, men det er ikke sandt. Jeg har skammet mig over min overvægt i mange år. Jeg fik anbefalet Keto FX af en god ven og begyndte at tage det med det samme. Jeg er glad, for at jeg er gået fra at være den "for fede" John, til en glad person med en god figur.
+             </p>
            </div>
          </div>
          <div class="customer_card">
            <div class="image">
              <img src="assets/images/customer-2.jpg" alt="" />
              <div class="after_before">
-               <span>Antes</span>
+               <span>Før</span>
              </div>
              <div class="after_before right">
-               <span>Después</span>
+               <span>Efter</span>
              </div>
            </div>
            <div class="name_testimonial_card">
              <p class="name">Sophie</p>
              <div class="verified">
                <img src="assets/images/tick-pink.svg" alt="" />
-               <p class="verified_text">Cliente verificado</p>
+               <p class="verified_text">Verificeret kunde</p>
              </div>
            </div>
            <div class="rating_box">
@@ -3260,25 +3282,27 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
              </ul>
            </div>
            <div class="text">
-             <h5>Amazing product</h5>
-             <p>Simplemente estoy encantado con este producto. Al principio, era realmente escéptico, pero después de 4 meses de uso, apenas puedo creer lo que veo. Me he convertido en una persona nueva y más delgada. Mis conocidos están realmente conmocionados por este éxito. Puedo recomendarlo a todos los que tengan la conciencia tranquila.</p>
+             <h5>Fantastisk produkt</h5>
+             <p>
+              Jeg er simpelthen så imponeret over dette produkt. I starten var jeg virkelig skeptisk, men efter 4 måneders brug kan jeg næsten ikke tro mine egne øjne. Jeg er blevet en ny, slankere person. Mine bekendte er virkelig chokerede over denne succes. Jeg kan uden tvivl anbefale det til alle.
+             </p>
            </div>
          </div>
          <div class="customer_card">
            <div class="image">
              <img src="assets/images/customer-3.jpg" alt="" />
              <div class="after_before">
-               <span>Antes</span>
+               <span>Før</span>
              </div>
              <div class="after_before right">
-               <span>Después</span>
+               <span>Efter</span>
              </div>
            </div>
            <div class="name_testimonial_card">
              <p class="name">Anna</p>
              <div class="verified">
                <img src="assets/images/tick-pink.svg" alt="" />
-               <p class="verified_text">Cliente verificado</p>
+               <p class="verified_text">Verificeret kunde</p>
              </div>
            </div>
            <div class="rating_box">
@@ -3356,8 +3380,10 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
              </ul>
            </div>
            <div class="text">
-             <h5>Amazing product</h5>
-             <p>Aprendí sobre Keto FX Gummies en línea y solo tenía que probarlo. Durante años, he querido perder peso, pero hasta ahora, todo se ha sentido demasiado engorroso. El efecto rápido realmente me sorprendió, después de solo 14 días, me veía significativamente más delgada y me sentía bien. Ahora, después de 3 meses, he podido alcanzar mi cifra deseada sin tener que morir de hambre. Estoy feliz.</p>
+             <h5>Fantastisk produkt</h5>
+             <p>
+               Jeg hørte om Keto FX Gummies på nettet og var bare nødt til at prøve det. I årevis har jeg ønsket at tabe mig, men indtil videre har alt føltes for besværligt. Den hurtige effekt overraskede mig virkelig, efter bare 14 dage så jeg betydeligt slankere ud og følte mig godt tilpas. Nu, efter 3 måneder, har jeg været i stand til at opnå min ønskede figur uden at skulle faste og være sulten. Jeg er meget tilfreds.
+             </p>
            </div>
          </div>
 
@@ -3365,17 +3391,17 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
            <div class="image">
              <img src="assets/images/customer-4.jpg" alt="" />
              <div class="after_before">
-               <span>Antes</span>
+               <span>Før</span>
              </div>
              <div class="after_before right">
-               <span>Después</span>
+               <span>Efter</span>
              </div>
            </div>
            <div class="name_testimonial_card">
              <p class="name">Laura</p>
              <div class="verified">
                <img src="assets/images/tick-pink.svg" alt="" />
-               <p class="verified_text">Cliente verificado</p>
+               <p class="verified_text">Verificeret kunde</p>
              </div>
            </div>
            <div class="rating_box">
@@ -3453,25 +3479,27 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
              </ul>
            </div>
            <div class="text">
-             <h5>Amazing product</h5>
-            <p>¡He logrado perder más de 20 st!! Keto FX me ha convertido en una nueva persona, tengo mucha más confianza en mí mismo y comprar es divertido nuevamente, por supuesto, con tres tamaños más pequeños. En serio, pruébalo por ti mismo, porque deseo esta fantástica experiencia para cualquiera que esté luchando contra el sobrepeso.</p>
+             <h5>Fantastisk produkt</h5>
+             <p>
+               Jeg har formået at tabe over 20 kg!!! Keto FX har gjort mig til et nyt menneske, jeg har meget mere selvtillid, og det er sjovt at shoppe igen, selvfølgelig med tre størrelser mindre. Prøv det, for jeg ønsker at alle, der kæmper med overvægt skal få denne fantastiske oplevelse.
+             </p>
            </div>
          </div>
          <div class="customer_card">
            <div class="image">
              <img src="assets/images/customer-5.jpg" alt="" />
              <div class="after_before">
-               <span>Antes</span>
+               <span>Før</span>
              </div>
              <div class="after_before right">
-               <span>Después</span>
+               <span>Efter</span>
              </div>
            </div>
            <div class="name_testimonial_card">
              <p class="name">Olivia</p>
              <div class="verified">
                <img src="assets/images/tick-pink.svg" alt="" />
-               <p class="verified_text">Cliente verificado</p>
+               <p class="verified_text">Verificeret kunde</p>
              </div>
            </div>
            <div class="rating_box">
@@ -3549,9 +3577,9 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
              </ul>
            </div>
            <div class="text">
-             <h5>Amazing product</h5>
+             <h5>Fantastisk produkt</h5>
              <p>
-             Odio los gimnasios y no soy fanático de trotar sin fin ni nada de eso. En la televisión, vi el anuncio de este producto dietético y pensé, dije y listo, lo pedí y comencé a tomarlo justo después de la entrega. No hay sensación de hambre y suficiente energía para mi trabajo, a pesar de la dieta, realmente genial, y la mejor parte es que he perdido más de 15 st y me siento súper. Me quedaré con eso.
+              Jeg hader fitnesscentre, og jeg er ikke fan af endeløs jogging eller noget i den stil. På tv så jeg en reklame for dette slankeprodukt og jeg bestilte et, hvorefter jeg begyndte at tage det lige efter leveringen. Ingen sultfornemmelser og nok energi til mit arbejde, på trods af kosten, virkelig fantastisk, og det bedste er, at jeg har tabt over 15 kilo og føler mig super tilpas. Jeg vil fortsætte med det.
              </p>
            </div>
          </div>
@@ -3559,17 +3587,17 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
            <div class="image">
              <img src="assets/images/customer-6.jpg" alt="" />
              <div class="after_before">
-               <span>Antes</span>
+               <span>Før</span>
              </div>
              <div class="after_before right">
-               <span>Después</span>
+               <span>Efter</span>
              </div>
            </div>
            <div class="name_testimonial_card">
              <p class="name">Max</p>
              <div class="verified">
                <img src="assets/images/tick-pink.svg" alt="" />
-               <p class="verified_text">Cliente verificado</p>
+               <p class="verified_text">Verificeret kunde</p>
              </div>
            </div>
            <div class="rating_box">
@@ -3647,8 +3675,10 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
              </ul>
            </div>
            <div class="text">
-             <h5>Amazing product</h5>
-            <p>Muchas gracias al equipo de Keto FX. No solo he logrado finalmente la figura de mis sueños, sino que también estoy entusiasmado con el fantástico servicio. El próximo verano puede llegar, y finalmente, puedo ir a nadar sin sentir la necesidad de avergonzarme de mi barriga. Gracias, gracias, eres increíble.</p>
+             <h5>Fantastisk produkt</h5>
+             <p>
+               En stor tak til Keto FX-teamet. Ikke alene har jeg endelig opnået min drømmefigur, men jeg er også meget glad for den fantastiske service. Den næste sommer kan bare komme an. Jeg kan endelig svømme uden at føle, at jeg skal skamme mig over min mave. Tak, I er fantastiske.
+             </p>
            </div>
          </div>
        </div>
@@ -3741,19 +3771,19 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                  </svg>
                </li>
              </ul>
-             <p>Calificación <strong>4.6</strong> basado en <strong>1,000+</strong> clientes satisfechos</p>
+             <p>Vurdering <strong>4.6</strong> baseret på mere end <strong>1,000+</strong> glade kunder</p>
            </div>
-           <h2>Únete a la revolución keto</h2>
-            <p>La fórmula <strong>KETO FX</strong> es exitosa y ha sido probada por estudios. Basándonos en estos datos, podemos calcular el tiempo que probablemente necesitará para alcanzar su peso deseado.</p>
+           <h2>bliv en del af keto-revolutionen</h2>
+            <p><strong>KETO FX</strong>-formlen er effektiv og er blevet dokumenteret af en række undersøgelser. Baseret på disse data kan vi beregne den tid, du sandsynligvis skal bruge for at nå din ønskede vægt.</p>
             <ul>
-                <li>Descubre cuánto peso es probable que pierdas con nuestra exclusiva fórmula KETO FX.</li>
-                <li>Averigüe si KETO FX es una buena opción para usted y cuánto tiempo necesita para alcanzar sus objetivos</li>
-                <li>KETO FX se vende actualmente sin receta y es posible sin receta</li>
+                <li>Find ud af, hvor meget du sandsynligvis vil tabe dig med vores eksklusive KETO FX-formel.</li>
+                <li>Find ud af, om KETO FX passer til dig, og hvor lang tid du har brug for til at nå dine mål.</li>
+                <li>KETO FX sælges i øjeblikket i håndkøb og uden recept.</li>
             </ul>
            <a
              href="https://ketoplus.nl/en/checkouts/keto-plus-uk/?"
              class="btn_one dynamic-link"
-             >OBTÉN KETO FX AHORA! <span class="arrow"></span
+             >FÅ KETO FX NU! <span class="arrow"></span
            ></a>
          </div>
          <div class="right_part">
@@ -3761,7 +3791,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
              <div class="rating_box full_width">
                <div style="width: 100%; margin: auto; display: block">
                  <h2 style="display: block">
-                 Únete a la revolución keto
+                 Bliv en del af keto-revolutionen
                  </h2>
                </div>
                <ul class="star">
@@ -3843,7 +3873,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
                    </svg>
                  </li>
                </ul>
-              <p>Calificación <strong>4.6</strong> basado en <strong>1,000+</strong> clientes satisfechos</p>
+               <p>Vurdering <strong>4.6</strong> baseret på mere end <strong>1,000+</strong> glade kunder</p>
              </div>
            </div>
 
@@ -3875,8 +3905,8 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
      <div class="inner_part full_width">
        <div class="card">
          <ul>
-           <li><a href="#">Política de privacidad</a></li>
-           <li><a href="#">Términos y Condiciones</a></li>
+           <li><a href="#">Privatlivspolitik</a></li>
+           <li><a href="#">Vilkår og betingelser</a></li>
          </ul>
        </div>
        <div class="logo">
@@ -3885,7 +3915,7 @@ $target_date = date('j F Y', strtotime($date. ' + '.$needed_days.' days'));
          </a>
        </div>
        <div class="card">
-       <p>Copyright © 2023 KETO FX - Todos los derechos reservados.</p>
+         <p>Copyright © 2023 KETO FX - Alle rettigheder forbeholdes.</p>
        </div>
      </div>
    </div>
