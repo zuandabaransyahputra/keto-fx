@@ -66,7 +66,7 @@ h2 {
 }
 h3 {
   font-size: 40px;
-  line-height: 30px;
+  line-height: 40px;
 }
 h4 {
   font-size: 35px;
@@ -84,16 +84,16 @@ strong {
   font-weight: 700;
 }
 .big_font {
-  font-size: 32px;
+  font-size: 22px;
   font-weight: 700;
 }
 .big_font_2 {
-  font-size: 26px;
+  font-size: 24px;
   line-height: 32px;
   font-weight: 500;
 }
 .big_font_2 tspan {
-  font-size: 34px;
+  font-size: 26px;
   font-weight: 700;
 }
 .content_form_header {
